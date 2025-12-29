@@ -22,3 +22,5 @@ Run the example file from the main project folder:
 
 ```bash
 python src/example1.py
+
+![Example Sudoku](assets/example.png)
