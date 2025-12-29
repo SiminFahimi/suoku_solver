@@ -5,12 +5,6 @@ It uses **AC-3** for constraint propagation and **backtracking search** with MRV
 
 > **Note:** This project was done as a **practice exercise** to learn CSPs and Sudoku solving techniques.
 
-## Output
-
-The program will print:
-- The initial Sudoku puzzle
-- The solved Sudoku puzzle
-
 ## Practice Goals
 
 - Representing Sudoku as a CSP  
@@ -24,5 +18,10 @@ Run the example file from the main project folder:
 ```bash
 python src/example1.py
 ```
-## Visualization 
+## Output
+
+The program will print:
+- The initial Sudoku puzzle
+- The solved Sudoku puzzle
+
 ![Example Sudoku](assets/example.png)
